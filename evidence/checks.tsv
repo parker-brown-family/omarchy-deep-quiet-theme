@@ -1,0 +1,3 @@
+now	local	evidence/implementation-2.manifest	https://github.com/tcballard/build-omarchy-themes@08f39326790606e8f10f2ba9ed85937526721719	-	cargo theme-tool check; check_policy.py with explicit contrast pairs and --check-images; see palette-check.log and policy-check.log	Palette, contrast, five PNG decodes pass.
+now	registry	evidence/implementation-2.manifest	https://github.com/omacom/omarchy-theme-registry@8eea92b78c91b0fc18d729d1f9602f8bf340cf94	-	validateTheme on local directory with current registry slugs and Sharp decoding; see registry-local.json	Pass; two advisory BACKGROUND_HEAVY warnings, retained exact supplied PNG bytes.
+not-run	live	-	none	-	-	Final Git-installed staging and live capture are pending candidate commit.

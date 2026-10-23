@@ -1,0 +1,34 @@
+{
+  "captured_at_utc": "2026-10-23T21:13:32.131202+00:00",
+  "kind": "real desktop screenshot",
+  "omarchy_version": "4.0.4-1",
+  "hyprland_version": "0.56.2",
+  "monitor": "eDP-1",
+  "monitor_pixels": [
+    2560,
+    1600
+  ],
+  "scale": 1.6,
+  "crop_logical": [
+    0,
+    26,
+    1600,
+    900
+  ],
+  "capture_pixels": [
+    2560,
+    1440
+  ],
+  "delivered_pixels": [
+    1920,
+    1080
+  ],
+  "capture_command": "grim -g \"0,26 1600x900\" screenshots/terminals.png",
+  "processing": "Resize captured desktop crop to 1920 x 1080; PNG palette optimization. No content compositing.",
+  "privacy_review": "Inspected at full size: generic source, ANSI palette and terminal state fixtures only; no usernames, private windows, prompts or machine metrics.",
+  "live_palette_sha256": "0bf1658976b2f372fcb3717086104203962007a16224ac760c09c31b167c5d46",
+  "final_wallpaper_sha256": "50ac5cd8a4b104c59f896054eb297e7d8f135db2057e53efbecf57a8d4788c84",
+  "preview_sha256": "23b1867e92f7544611293b146f97b48529f51fbcce94bdc82bd44294b7b2e602",
+  "raw_capture_sha256": "2fd2419dc5b767a729cd6b98aaf89932c8d7d19bc2280375de0301fade25e225",
+  "fixture_shell": "plain Python fixture; no login shell or live system data"
+}

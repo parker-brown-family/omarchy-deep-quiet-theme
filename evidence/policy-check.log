@@ -1,0 +1,10 @@
+CONTRAST foreground/background: 10.2231:1; required 4.5:1
+CONTRAST bright_foreground/selection: 6.5575:1; required 4.5:1
+CONTRAST accent/background: 7.5865:1; required 3.0:1
+DECODED backgrounds/01-brush-and-quiet.png
+DECODED backgrounds/02-high-country.png
+DECODED backgrounds/03-omarchy.png
+DECODED backgrounds/04-silent-work.png
+DECODED preview.png
+NOT CHECKED: video decoding, image rights, preview composition or live rendering
+PASS: selected project gates only; registry acceptance and desktop behaviour NOT CHECKED

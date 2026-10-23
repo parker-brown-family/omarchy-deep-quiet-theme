@@ -1,0 +1,5 @@
+CONTRAST foreground/background: 10.22:1 (design target 4.5:1)
+CONTRAST foreground/selection: 5.58:1 (design target 4.5:1)
+CONTRAST accent/background: 7.59:1 (design target 3:1)
+NOT CHECKED: image decoding/dimensions, media rights, reserved/taken names, live rendering, upstream registry acceptance.
+PASS: local authoring subset only
