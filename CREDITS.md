@@ -4,7 +4,7 @@ Parker Brown supplied the Deep Quiet palette and directed the theme and artwork.
 
 ## Wallpapers
 
-All four shipped PNGs are 3840 × 2160 and preserve the supplied final exports unchanged. The three paintings were made with OpenAI image generation and supplied as upscaled exports. The Omarchy wordmark is a vector-derived export.
+All four shipped PNGs are 3840 × 2160 and preserve the supplied final exports unchanged. The three paintings were made with OpenAI image generation and supplied as upscaled exports. The minimal emblem background is the supplied final PNG.
 
 ### Brush & Quiet
 
@@ -18,11 +18,11 @@ All four shipped PNGs are 3840 × 2160 and preserve the supplied final exports u
 - Creator and source: Parker Brown, art direction; supplied final export `DEEP_QUIET_Elk_4K (1).png`, created with OpenAI image generation.
 - License and permission: [MIT](LICENSE), Copyright (c) 2026 Parker Brown. Parker supplied the final artwork and explicitly authorized community redistribution.
 
-### Omarchy
+### Omarchy Emblem
 
 - File: [backgrounds/03-omarchy.png](backgrounds/03-omarchy.png).
-- Creator and source: Parker Brown, art direction; supplied final export `DEEP_QUIET_Omarchy_4K (1).png`. The wordmark geometry is credited to David Heinemeier Hansson in [LICENSE-OMARCHY](LICENSE-OMARCHY).
-- License and permission: Parker's original contributions use [MIT](LICENSE), Copyright (c) 2026 Parker Brown, with his explicit permission for community redistribution. The upstream wordmark geometry remains under its [MIT license](LICENSE-OMARCHY), Copyright David Heinemeier Hansson, which permits redistribution with its notice retained.
+- Creator and source: Parker Brown, art direction; supplied final export `DEEP_QUIET_Omarchy_4K (1).png`, showing a pale blue square emblem and the serial `O-MACHI-042` on warm brown.
+- License and permission: [MIT](LICENSE), Copyright (c) 2026 Parker Brown. Parker supplied the final artwork and explicitly authorized community redistribution.
 
 ### Silent Work
 
@@ -30,7 +30,7 @@ All four shipped PNGs are 3840 × 2160 and preserve the supplied final exports u
 - Creator and source: Parker Brown, art direction; supplied final export `DEEP_QUIET_Asteroid_4K (1).png`, created with OpenAI image generation.
 - License and permission: [MIT](LICENSE), Copyright (c) 2026 Parker Brown. Parker supplied the final artwork and explicitly authorized community redistribution.
 
-The Omarchy name and logo do not imply endorsement.
+The retained [upstream Omarchy MIT notice](LICENSE-OMARCHY) credits David Heinemeier Hansson. The Omarchy name and logo do not imply endorsement.
 
 ## Tools and Community
 

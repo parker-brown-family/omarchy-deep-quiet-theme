@@ -1,0 +1,20 @@
+{
+  "pass": true,
+  "kind": "actual local Git clone installed through the installed Omarchy theme-set path",
+  "omarchy": "4.0.4-1",
+  "selected_wallpaper": "04-silent-work.png",
+  "terminal_configs_byte_identical_to_prior": {
+    "alacritty.toml": true,
+    "foot.ini": true,
+    "kitty.conf": true,
+    "ghostty.conf": true
+  },
+  "selection": {
+    "text": "#EEE8D4",
+    "background": "#425543"
+  },
+  "staged_palette_matches_release": true,
+  "ignored_theme_files": [],
+  "generated_alacritty_toml_parses": true,
+  "candidate_commit": "fa406bda772bc4cd6e1577ea21a1cdecedbc3376"
+}

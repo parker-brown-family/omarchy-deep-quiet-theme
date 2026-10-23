@@ -6,9 +6,15 @@
 
 A dark Omarchy theme by Parker Brown, with a forest background, ivory text, jade accents and four wallpapers.
 
+Status: release
+
+Intended Omarchy target: Omarchy 4 / Quattro
+
+Tested installed Omarchy version: 4.0.4-1
+
 ![Deep Quiet desktop](preview.png)
 
-Real desktop capture on Omarchy 4.0.4-1 with Hyprland 0.56.2. The community category badge is not a certification.
+Real desktop capture on Omarchy 4.0.4-1 with Hyprland 0.56.2.
 
 ## Install
 
@@ -18,16 +24,18 @@ Back up local theme changes and record your current theme and background. This c
 omarchy theme install https://github.com/parker-brown-family/omarchy-deep-quiet-theme
 ```
 
+## Rollback
+
 To roll back, select your previous theme and background. Switch away from Deep Quiet before removing its installed copy.
 
 ## Artwork and License
 
-The four wallpapers are 3840 × 2160 PNGs: three paintings supplied as upscaled exports and one vector-derived Omarchy wordmark. See [artwork sources and permissions](CREDITS.md).
+The four wallpapers are 3840 × 2160 PNGs: three paintings supplied as upscaled exports and a minimal emblem background. See [artwork sources and permissions](CREDITS.md).
 
-Original theme configuration and supplied original artwork use the [MIT license](LICENSE). Omarchy wordmark geometry retains its [upstream MIT license](LICENSE-OMARCHY).
+Original theme configuration and supplied original artwork use the [MIT license](LICENSE). The [upstream Omarchy MIT notice](LICENSE-OMARCHY) is retained.
 
-## Validation
+## Validation limits
 
-The theme targets Omarchy 4 / Quattro and uses Omarchy's built-in application theming. The separate personal Terminal Delight skin is not included.
+The theme uses Omarchy's built-in application theming. The separate personal Terminal Delight skin is not included.
 
-[Recorded checks](evidence/checks.tsv) cover the tested installation and specific opaque color pairs. Browser, editor, GTK and lock-screen visual acceptance has not been established.
+[Recorded checks](evidence/checks.tsv) cover the tested installation and specific opaque color pairs. Browser, editor, GTK and lock-screen visual acceptance has not been established. The community category badge is not a certification.
